@@ -1,6 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/YutaroMatsumoto/myapi-golang/src/functionAndType"
+)
 
 func main() {
 	/*
@@ -163,5 +167,5 @@ func main() {
 	// x/exp/mapsパッケージ
 	// maps.Clear
 
-	functionAndTyep()
+	functionAndType.FunctionAndTyep()
 }
