@@ -1,11 +1,11 @@
-package main
+package functionAndType
 
 import (
 	"fmt"
 	"net/http"
 )
 
-func functionAndTyep() {
+func FunctionAndTyep() {
 	println("userTypeの呼び出し成功")
 
 	// var intint =  [...][...]int{{0}}
